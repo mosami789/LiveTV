@@ -112,7 +112,7 @@ body {
 }
 
 #monitor {
-    background-image: linear-gradient(to right, #111 , #333 , #222);
+    background-image: linear-gradient(to right, #333 , #333 , #222);
     position: relative;
     border-top: 1px solid #222;
     margin: 0% 3%;
